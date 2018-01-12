@@ -1,0 +1,22 @@
+.uploadpreview{
+    width:150px;
+    height:150px;
+    display:block;
+    border:1px solid #ccc;
+    margin:0 auto 15px;
+    background-size:100% auto;
+    background-repeat:no-repeat;
+    background-position:center;
+  }
+  
+  .upload-wrap{
+    float:left;
+    width:200px;
+  }
+  
+  input[type="file"] {
+      color: transparent;
+      width: 120px;
+      margin: 0 auto;
+      display: block;
+  }
